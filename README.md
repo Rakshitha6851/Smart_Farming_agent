@@ -3,6 +3,7 @@
 ## Problem Statement
 
 **Problem Statement No.9 – AI Agent for Smart Farming Advice** 
+
 **The Challenge** – An AI Agent for Smart Farming Advice, powered by RAG (Retrieval-Augmented 
 Generation), supports small-scale farmers by delivering real-time, localized agricultural guidance. 
 It retrieves trusted data on weather forecasts, soil conditions, crop recommendations, pest control 
@@ -12,6 +13,7 @@ Farmers can interact in their local language and ask questions like “What crop
 or “What is today’s mandi rate for tomatoes?” 
 The agent ensures timely, data-driven decisions that reduce risk, increase yield, and boost income. 
 This AI-driven assistant bridges the knowledge gap and brings smart farming to the grassroots. 
+
 **Technology** – Use of IBM Cloud Lite services / IBM Granite is mandatory. 
 
 ---
