@@ -2,9 +2,17 @@
 
 ## Problem Statement
 
-**AI Agent for Smart Farming Advice**
-
-The Smart Farming AI Agent is an intelligent agricultural assistant designed to support farmers with real-time and data-driven farming guidance. The system provides recommendations related to crop selection, weather forecasting, soil health, pest management, irrigation planning, fertilizer usage, and mandi prices. By leveraging IBM watsonx.ai, Granite/Llama models, LangChain, ChromaDB, and Retrieval-Augmented Generation (RAG), the agent delivers accurate and context-aware responses to help farmers make informed decisions.
+**Problem Statement No.9 – AI Agent for Smart Farming Advice** 
+**The Challenge** – An AI Agent for Smart Farming Advice, powered by RAG (Retrieval-Augmented 
+Generation), supports small-scale farmers by delivering real-time, localized agricultural guidance. 
+It retrieves trusted data on weather forecasts, soil conditions, crop recommendations, pest control 
+measures, and current market prices from agricultural departments, meteorological sources, and agri
+tech platforms. 
+Farmers can interact in their local language and ask questions like “What crop is best for this season?” 
+or “What is today’s mandi rate for tomatoes?” 
+The agent ensures timely, data-driven decisions that reduce risk, increase yield, and boost income. 
+This AI-driven assistant bridges the knowledge gap and brings smart farming to the grassroots. 
+**Technology** – Use of IBM Cloud Lite services / IBM Granite is mandatory. 
 
 ---
 
