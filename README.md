@@ -209,26 +209,6 @@ Agentic AI enables the Smart Farming AI Agent to function as an intelligent agri
 
 ---
 
-## Screenshots
-
-### Home Page
-
-(Add Screenshot)
-
-### Sample Query Output
-
-(Add Screenshot)
-
-### Langflow Workflow
-
-(Add Screenshot)
-
-### Architecture Diagram
-
-(Add Screenshot)
-
----
-
 ## Notes
 
 * Uses local fallback mandi data when external APIs are unavailable.
